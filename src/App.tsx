@@ -1,4 +1,3 @@
-import React from "react";
 import { Links } from "./constants/links";
 
 function App() {
