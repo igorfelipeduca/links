@@ -18,5 +18,9 @@ export const Links = [
     {
         name: "Dev.to",
         url: "https://dev.to/yelldutz",
+    },
+    {
+        name: "My CV",
+        url: "https://read.cv/duca",
     }
 ]
