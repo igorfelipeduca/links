@@ -4,6 +4,10 @@ export const Links = [
     url: "https://www.linkedin.com/in/igorfelipeduca",
   },
   {
+    name: "YouTube",
+    url: "https://www.youtube.com/@ducaswtf",
+  },
+  {
     name: "GitHub",
     url: "https://github.com/igorfelipeduca",
   },
